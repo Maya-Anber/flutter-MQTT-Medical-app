@@ -13,19 +13,13 @@ This Flutter app integrates with an IoT system for health care monitoring. The s
 - Alerts and notifications based on sensor readings
 
 
-1. **Navigate to the project directory:**
-
-   ```sh
-   cd your-repository
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
 
    ```sh
    flutter pub get
    ```
 
-3. **Run the app:**
+2. **Run the app:**
 
    ```sh
    flutter run
